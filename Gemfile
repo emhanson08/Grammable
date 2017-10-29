@@ -41,6 +41,8 @@ end
 gem 'simple_form'
 gem 'devise'
 gem 'carrierwave', '~> 1.0'
+gem "figaro"
+gem "fog-aws"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
